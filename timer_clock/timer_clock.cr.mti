@@ -1,0 +1,15 @@
+C:/Users/choug/mcuDesignProjects/timer_clock/timer_clock.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/timer_clock/timer_clock.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module timer_clock
+
+Top level modules:
+	timer_clock
+
+} {} {}} C:/Users/choug/mcuDesignProjects/timer_clock/tb_timer_clock.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/timer_clock/tb_timer_clock.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_timer_clock
+
+Top level modules:
+	tb_timer_clock
+
+} {} {}}

@@ -1,0 +1,15 @@
+C:/Users/choug/mcuDesignProjects/alu_7bits/testbench_alu_7bits.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/alu_7bits/testbench_alu_7bits.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testbench_alu_7bits
+
+Top level modules:
+	testbench_alu_7bits
+
+} {} {}} C:/Users/choug/mcuDesignProjects/alu_7bits/alu_7bits.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/alu_7bits/alu_7bits.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_7bits
+
+Top level modules:
+	alu_7bits
+
+} {} {}}

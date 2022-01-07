@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\choug\mcuDesignProjects\alu_7bits\modelsim
+valu_7bits
+!i10b 1
+Z1 !s100 6GO;OR=WihSgDZPD5f7[10
+Z2 IE`HQSjoj=EOR40OAA[hC82
+Z3 V^T<neJPWo2oET0:SF`lZ:0
+Z4 dC:\Users\choug\mcuDesignProjects\alu_7bits\modelsim
+Z5 w1633704106
+Z6 8../alu_7bits.v
+Z7 F../alu_7bits.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1633798664.166000
+!s107 ../alu_7bits.v|
+Z9 !s90 -reportprogress|300|../alu_7bits.v|
+!s101 -O0
+o-O0
+vtestbench_alu_7bits
+Z10 I:f97Nhn?o6O9A?N[jOESc0
+Z11 VeJ[Ng;Z1g648@VC5CoieT2
+R4
+Z12 w1633798653
+Z13 8./testbench_alu_7bits.v
+Z14 F./testbench_alu_7bits.v
+L0 2
+R8
+r1
+31
+Z15 !s90 -reportprogress|300|./testbench_alu_7bits.v|
+o-O0
+!i10b 1
+Z16 !s100 SYc?2KGH12SKmG>OXnVkC0
+!s85 0
+Z17 !s108 1633798664.034000
+Z18 !s107 ./testbench_alu_7bits.v|
+!s101 -O0

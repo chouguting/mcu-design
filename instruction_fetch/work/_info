@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\choug\mcuDesignProjects\pipeline_calculate
+vCPU
+Z1 !s100 D0OhQY8a>i?gS;F1Zn8fG2
+Z2 I[:_B5><Ud2=Ki?K>VCM^i3
+Z3 Vo]I[5WACUcKX@[DE74@OH0
+Z4 dC:\Users\choug\mcuDesignProjects\instruction_fetch
+Z5 w1635952248
+Z6 8C:/Users/choug/mcuDesignProjects/instruction_fetch/CPU.v
+Z7 FC:/Users/choug/mcuDesignProjects/instruction_fetch/CPU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/instruction_fetch/CPU.v|
+Z10 o-work work -O0
+Z11 n@c@p@u
+!i10b 1
+!s85 0
+Z12 !s108 1635953872.390000
+Z13 !s107 C:/Users/choug/mcuDesignProjects/instruction_fetch/CPU.v|
+!s101 -O0
+vROM
+Z14 I5l4lS0FJWWjFd]z[nbj7:3
+Z15 VJJ3dhL^2?QDP0K9ifg0d83
+R4
+Z16 w1635953678
+Z17 8C:/Users/choug/mcuDesignProjects/instruction_fetch/ROM.v
+Z18 FC:/Users/choug/mcuDesignProjects/instruction_fetch/ROM.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/instruction_fetch/ROM.v|
+R10
+Z20 n@r@o@m
+Z21 !s100 DCZing@_^_YP]NO]oRGXk1
+Z22 !s108 1635953872.311000
+Z23 !s107 C:/Users/choug/mcuDesignProjects/instruction_fetch/ROM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_CPU
+!i10b 1
+Z24 !s100 1@3a1^cL[?:ieSzJADaeB3
+Z25 I8Eg;kFg78a]O9L[jYQ=IT0
+Z26 V>@eeS8YFW3]o_d:J0[MOL0
+R4
+Z27 w1635952916
+Z28 8C:/Users/choug/mcuDesignProjects/instruction_fetch/tb_CPU.v
+Z29 FC:/Users/choug/mcuDesignProjects/instruction_fetch/tb_CPU.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1635953872.469000
+!s107 C:/Users/choug/mcuDesignProjects/instruction_fetch/tb_CPU.v|
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/instruction_fetch/tb_CPU.v|
+!s101 -O0
+R10
+Z31 ntb_@c@p@u

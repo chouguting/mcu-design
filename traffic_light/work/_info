@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\choug\mcuDesignProjects\controlled_counter
+vtb_traffic_light
+!i10b 1
+Z1 !s100 PbUe<o:Al8m?IGj2=Gman0
+Z2 I<_Dc@>QQ=MT:1ajh_4:Si1
+Z3 VS0h];7>do=UgiDlPoJOed3
+Z4 dC:\Users\choug\mcuDesignProjects\traffic_light
+Z5 w1634812118
+Z6 8C:\Users\choug\mcuDesignProjects\traffic_light\tb_traffic_light.v
+Z7 FC:\Users\choug\mcuDesignProjects\traffic_light\tb_traffic_light.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1634814064.472000
+!s107 C:\Users\choug\mcuDesignProjects\traffic_light\tb_traffic_light.v|
+Z9 !s90 -reportprogress|300|-work|work|C:\Users\choug\mcuDesignProjects\traffic_light\tb_traffic_light.v|
+!s101 -O0
+Z10 o-work work -O0
+vtraffic_light
+Z11 IS<7H8FboNL;nmDBTERT?:1
+Z12 Vj<of;D?lc^MO;W1@3FG0Y2
+R4
+Z13 w1634814054
+Z14 8C:/Users/choug/mcuDesignProjects/traffic_light/traffic_light.v
+Z15 FC:/Users/choug/mcuDesignProjects/traffic_light/traffic_light.v
+L0 1
+R8
+r1
+31
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/traffic_light/traffic_light.v|
+R10
+!i10b 1
+Z17 !s100 ?D:4dA4<N2=_i=Phc==Rk0
+!s85 0
+Z18 !s108 1634814064.365000
+Z19 !s107 C:/Users/choug/mcuDesignProjects/traffic_light/traffic_light.v|
+!s101 -O0

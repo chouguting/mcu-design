@@ -1,0 +1,15 @@
+C:/Users/choug/mcuDesignProjects/bcd_counter/testbench_bcd_counter.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/bcd_counter/testbench_bcd_counter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testbench_bcd_counter
+
+Top level modules:
+	testbench_bcd_counter
+
+} {} {}} C:/Users/choug/mcuDesignProjects/bcd_counter/bcd_counter.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/bcd_counter/bcd_counter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module bcd_counter
+
+Top level modules:
+	bcd_counter
+
+} {} {}}

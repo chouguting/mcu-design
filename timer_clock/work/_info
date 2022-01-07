@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\choug\mcuDesignProjects\bcd_counter
+vtb_timer_clock
+!i10b 1
+Z1 !s100 mg]8h;12UG_N[6MRUURZk0
+Z2 In[FZMG@N]NH>AXb2K91<L3
+Z3 ViUd_>bT]N90gm7CY1L^3T3
+Z4 dC:\Users\choug\mcuDesignProjects\timer_clock
+Z5 w1633800448
+Z6 8C:/Users/choug/mcuDesignProjects/timer_clock/tb_timer_clock.v
+Z7 FC:/Users/choug/mcuDesignProjects/timer_clock/tb_timer_clock.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1633800489.104000
+!s107 C:/Users/choug/mcuDesignProjects/timer_clock/tb_timer_clock.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/timer_clock/tb_timer_clock.v|
+!s101 -O0
+Z10 o-work work -O0
+vtimer_clock
+Z11 !s100 K9OnXf`OQ[lk3K`i0VTH51
+Z12 I9i1iBQ4>m1AL0IRTCj@e21
+Z13 VJDeif6a^z^fQg3?a[MDKE3
+R4
+Z14 w1633800452
+Z15 8C:/Users/choug/mcuDesignProjects/timer_clock/timer_clock.v
+Z16 FC:/Users/choug/mcuDesignProjects/timer_clock/timer_clock.v
+L0 1
+R8
+r1
+31
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/timer_clock/timer_clock.v|
+R10
+!i10b 1
+!s85 0
+Z18 !s108 1633800489.045000
+Z19 !s107 C:/Users/choug/mcuDesignProjects/timer_clock/timer_clock.v|
+!s101 -O0

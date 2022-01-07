@@ -1,0 +1,22 @@
+C:/Users/choug/mcuDesignProjects/instruction_fetch/CPU.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/instruction_fetch/CPU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} C:/Users/choug/mcuDesignProjects/instruction_fetch/tb_CPU.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/instruction_fetch/tb_CPU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_CPU
+
+Top level modules:
+	tb_CPU
+
+} {} {}} C:/Users/choug/mcuDesignProjects/instruction_fetch/ROM.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/instruction_fetch/ROM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}}

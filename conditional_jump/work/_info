@@ -1,0 +1,84 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\choug\mcuDesignProjects\register_addressing_all
+vCPU
+Z1 !s100 D`K3CT7M[9AI3k36U9e`L2
+Z2 If6aG8Y1Qf8D2`@4OUZQ@a0
+Z3 VCk]Z^PHiWGY7Ffk=Vfz0o3
+Z4 dC:\Users\choug\mcuDesignProjects\conditional_jump
+Z5 w1638797708
+Z6 8C:/Users/choug/mcuDesignProjects/conditional_jump/CPU.v
+Z7 FC:/Users/choug/mcuDesignProjects/conditional_jump/CPU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/conditional_jump/CPU.v|
+Z10 o-work work -O0
+Z11 n@c@p@u
+Z12 !s108 1638797835.827000
+Z13 !s107 C:/Users/choug/mcuDesignProjects/conditional_jump/CPU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProgram_Rom
+!i10b 1
+Z14 !s100 MSkXRX_@_DKO<:2^ITG@@2
+Z15 I3o=z4n_cbm8UG1STX_CPE1
+Z16 V[J?EiRjB;A1Y`=EzF>j9K0
+R4
+Z17 w1638784873
+Z18 8C:/Users/choug/mcuDesignProjects/conditional_jump/Program_Rom.v
+Z19 FC:/Users/choug/mcuDesignProjects/conditional_jump/Program_Rom.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1638797836.127000
+!s107 C:/Users/choug/mcuDesignProjects/conditional_jump/Program_Rom.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/conditional_jump/Program_Rom.v|
+!s101 -O0
+R10
+Z21 n@program_@rom
+vsingle_port_ram_128x8
+Z22 !s100 aVdi2h8K5OgY^YL`FY[1[2
+Z23 IPJ141^2d86BL[NW]j=B<W3
+Z24 VzZNV<GVAnfl2nc:TUS4Zc0
+R4
+Z25 w1637548328
+Z26 8C:/Users/choug/mcuDesignProjects/conditional_jump/single_port_ram_128x8.v
+Z27 FC:/Users/choug/mcuDesignProjects/conditional_jump/single_port_ram_128x8.v
+L0 4
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/conditional_jump/single_port_ram_128x8.v|
+R10
+Z29 !s108 1638797835.951000
+Z30 !s107 C:/Users/choug/mcuDesignProjects/conditional_jump/single_port_ram_128x8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_CPU
+Z31 !s100 0HOibSLJgTNhX=Kf[fZCj1
+Z32 ISED[f9VAgF_WJc:P>cA?n1
+Z33 V>@eeS8YFW3]o_d:J0[MOL0
+R4
+Z34 w1638760656
+Z35 8C:/Users/choug/mcuDesignProjects/conditional_jump/tb_CPU.v
+Z36 FC:/Users/choug/mcuDesignProjects/conditional_jump/tb_CPU.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/conditional_jump/tb_CPU.v|
+R10
+Z38 ntb_@c@p@u
+!i10b 1
+!s85 0
+Z39 !s108 1638797836.039000
+Z40 !s107 C:/Users/choug/mcuDesignProjects/conditional_jump/tb_CPU.v|
+!s101 -O0

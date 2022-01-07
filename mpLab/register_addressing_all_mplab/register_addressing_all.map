@@ -1,0 +1,34 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Thu Dec 16 19:21:52 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x00001e
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00000e      
+            15 out of 2311 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    loop1   0x000005    program     static C:\Users\choug\mcuDesignProjects\mpLab\register_addressing_all_mplab\register_addressing_all.asm
+                    loop2   0x00000a    program     static C:\Users\choug\mcuDesignProjects\mpLab\register_addressing_all_mplab\register_addressing_all.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    loop1   0x000005    program     static C:\Users\choug\mcuDesignProjects\mpLab\register_addressing_all_mplab\register_addressing_all.asm
+                    loop2   0x00000a    program     static C:\Users\choug\mcuDesignProjects\mpLab\register_addressing_all_mplab\register_addressing_all.asm
+
+

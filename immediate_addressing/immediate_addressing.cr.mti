@@ -1,0 +1,22 @@
+C:/Users/choug/mcuDesignProjects/immediate_addressing/tb_CPU.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/immediate_addressing/tb_CPU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_CPU
+
+Top level modules:
+	tb_CPU
+
+} {} {}} C:/Users/choug/mcuDesignProjects/immediate_addressing/ROM.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/immediate_addressing/ROM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}} C:/Users/choug/mcuDesignProjects/immediate_addressing/CPU.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/immediate_addressing/CPU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}}

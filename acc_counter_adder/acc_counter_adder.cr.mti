@@ -1,0 +1,15 @@
+C:/Users/choug/mcuDesignProjects/acc_counter_adder/tb_acc_counter_adder.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/acc_counter_adder/tb_acc_counter_adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_acc_counter_adder
+
+Top level modules:
+	tb_acc_counter_adder
+
+} {} {}} C:/Users/choug/mcuDesignProjects/acc_counter_adder/acc_counter_adder.v {1 {vlog -work work {C:\Users\choug\mcuDesignProjects\acc_counter_adder\acc_counter_adder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module acc_counter_adder
+
+Top level modules:
+	acc_counter_adder
+
+} {} {}}

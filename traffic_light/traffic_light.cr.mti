@@ -1,0 +1,8 @@
+C:/Users/choug/mcuDesignProjects/traffic_light/tb_traffic_light.v {1 {vlog -work work {C:\Users\choug\mcuDesignProjects\traffic_light\tb_traffic_light.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_traffic_light
+
+Top level modules:
+	tb_traffic_light
+
+} {} {}}

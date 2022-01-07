@@ -1,0 +1,29 @@
+C:/Users/choug/mcuDesignProjects/register_addressing_all_more/tb_CPU.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/register_addressing_all_more/tb_CPU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_CPU
+
+Top level modules:
+	tb_CPU
+
+} {} {}} C:/Users/choug/mcuDesignProjects/register_addressing_all_more/Program_Rom.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/register_addressing_all_more/Program_Rom.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Program_Rom
+
+Top level modules:
+	Program_Rom
+
+} {} {}} C:/Users/choug/mcuDesignProjects/register_addressing_all_more/single_port_ram_128x8.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/register_addressing_all_more/single_port_ram_128x8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module single_port_ram_128x8
+
+Top level modules:
+	single_port_ram_128x8
+
+} {} {}} C:/Users/choug/mcuDesignProjects/register_addressing_all_more/CPU.v {1 {vlog -work work C:/Users/choug/mcuDesignProjects/register_addressing_all_more/CPU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}}

@@ -1,0 +1,84 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\choug\mcuDesignProjects\middle
+vCPU
+Z1 IaWDcfkG<e>A0]>1]g=Cjh2
+Z2 VCk]Z^PHiWGY7Ffk=Vfz0o3
+Z3 dC:\Users\choug\mcuDesignProjects\register_addressing
+Z4 w1637778026
+Z5 8C:/Users/choug/mcuDesignProjects/register_addressing/CPU.v
+Z6 FC:/Users/choug/mcuDesignProjects/register_addressing/CPU.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/register_addressing/CPU.v|
+Z9 o-work work -O0
+Z10 n@c@p@u
+!i10b 1
+Z11 !s100 X;j>:BFl<>o?:c<zJ?O>L0
+!s85 0
+Z12 !s108 1637778096.046000
+Z13 !s107 C:/Users/choug/mcuDesignProjects/register_addressing/CPU.v|
+!s101 -O0
+vROM
+Z14 ILV?fAE^PzTbYh:d:TCJ?72
+Z15 VJJ3dhL^2?QDP0K9ifg0d83
+R3
+Z16 w1637550772
+Z17 8C:/Users/choug/mcuDesignProjects/register_addressing/ROM.v
+Z18 FC:/Users/choug/mcuDesignProjects/register_addressing/ROM.v
+L0 1
+R7
+r1
+31
+R9
+Z19 n@r@o@m
+Z20 !s100 7gN841K8VdC_iL1Xd3J>11
+Z21 !s108 1637778095.842000
+Z22 !s107 C:/Users/choug/mcuDesignProjects/register_addressing/ROM.v|
+Z23 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/register_addressing/ROM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsingle_port_ram_128x8
+!i10b 1
+Z24 !s100 zK^6ezZ[>d2bYRU_?0h1E2
+Z25 Ib6V;ReWjV6CGM9OYclUQ53
+Z26 VzZNV<GVAnfl2nc:TUS4Zc0
+R3
+Z27 w1637548328
+Z28 8C:/Users/choug/mcuDesignProjects/register_addressing/single_port_ram_128x8.v
+Z29 FC:/Users/choug/mcuDesignProjects/register_addressing/single_port_ram_128x8.v
+L0 4
+R7
+r1
+!s85 0
+31
+!s108 1637778096.139000
+!s107 C:/Users/choug/mcuDesignProjects/register_addressing/single_port_ram_128x8.v|
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/register_addressing/single_port_ram_128x8.v|
+!s101 -O0
+R9
+vtb_CPU
+Z31 !s100 119z8CEJJEIYz^;Rz@2Vh1
+Z32 IPoB;@FSdj;Z8?FAQ>27mI3
+Z33 V>@eeS8YFW3]o_d:J0[MOL0
+R3
+Z34 w1637550948
+Z35 8C:/Users/choug/mcuDesignProjects/register_addressing/tb_CPU.v
+Z36 FC:/Users/choug/mcuDesignProjects/register_addressing/tb_CPU.v
+L0 1
+R7
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/register_addressing/tb_CPU.v|
+R9
+Z38 ntb_@c@p@u
+Z39 !s108 1637778095.964000
+Z40 !s107 C:/Users/choug/mcuDesignProjects/register_addressing/tb_CPU.v|
+!i10b 1
+!s85 0
+!s101 -O0

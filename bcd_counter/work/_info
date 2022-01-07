@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vbcd_counter
+Z1 !s100 jLWYXjLXSS7XbEFUhL9YY3
+Z2 IanLK@5N^K<`Jgg=f2zW7k2
+Z3 V8cHD]5g`G`A6674lZSzEM0
+Z4 dC:\Users\choug\mcuDesignProjects\bcd_counter
+Z5 w1633798993
+Z6 8C:/Users/choug/mcuDesignProjects/bcd_counter/bcd_counter.v
+Z7 FC:/Users/choug/mcuDesignProjects/bcd_counter/bcd_counter.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/bcd_counter/bcd_counter.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1633799393.864000
+Z12 !s107 C:/Users/choug/mcuDesignProjects/bcd_counter/bcd_counter.v|
+!s101 -O0
+vtestbench_bcd_counter
+!i10b 1
+!s100 ZSZ<W>o]>Yhzm`A2N:MdJ2
+I>hG4HWVRdSCdd7070K3eB3
+Z13 V<HD>M0JolI3TRO[KLGOc>1
+R4
+w1633799385
+Z14 8C:/Users/choug/mcuDesignProjects/bcd_counter/testbench_bcd_counter.v
+Z15 FC:/Users/choug/mcuDesignProjects/bcd_counter/testbench_bcd_counter.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1633799393.972000
+!s107 C:/Users/choug/mcuDesignProjects/bcd_counter/testbench_bcd_counter.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/choug/mcuDesignProjects/bcd_counter/testbench_bcd_counter.v|
+!s101 -O0
+R10
